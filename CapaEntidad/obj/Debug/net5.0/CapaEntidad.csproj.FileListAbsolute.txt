@@ -1,0 +1,12 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\bin\Debug\net5.0\CapaEntidad.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\bin\Debug\net5.0\CapaEntidad.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\bin\Debug\net5.0\ref\CapaEntidad.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\bin\Debug\net5.0\CapaEntidad.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\ref\CapaEntidad.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaEntidad\obj\Debug\net5.0\CapaEntidad.pdb

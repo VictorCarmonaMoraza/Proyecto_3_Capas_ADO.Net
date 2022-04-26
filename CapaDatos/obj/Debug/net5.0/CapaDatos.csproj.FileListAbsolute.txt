@@ -1,0 +1,15 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\bin\Debug\net5.0\CapaDatos.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\bin\Debug\net5.0\CapaDatos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\bin\Debug\net5.0\ref\CapaDatos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\bin\Debug\net5.0\CapaDatos.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\bin\Debug\net5.0\CapaEntidad.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\bin\Debug\net5.0\CapaEntidad.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.csproj.CopyComplete
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\ref\CapaDatos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Proyecto por capas NET ADO\ProyectoNetCoreCapasADO\CapaDatos\obj\Debug\net5.0\CapaDatos.pdb
