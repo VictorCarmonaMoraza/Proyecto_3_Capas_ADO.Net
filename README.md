@@ -1,1 +1,1 @@
-# 3 - Manejo de URL Absoluta
+# 4 - Crear una funcion para hacer un Get de JSON y de Text

@@ -5,56 +5,50 @@ using System.Collections.Generic;
 
 namespace ProyectoNetCoreCapasADO.Controllers
 {
+
     public class TipoMedicamentoController : Controller
     {
         public IActionResult Index()
         {
+
             return View();
         }
+
         public IActionResult Inicio()
         {
             return View();
         }
-
-
         public IActionResult SinMenu()
         {
             return View();
         }
-
-        /// <summary>
-        /// Retorna un saludo
-        /// </summary>
-        /// <returns></returns>
+        //string
         public string saludo()
         {
             return "Hola amigos";
         }
-
-        /// <summary>
-        /// Retorna un entero
-        /// </summary>
-        /// <returns></returns>
-        public int numeroEntero()
+        public string saludoNombre(string nombre)
+        {
+            return "Bienvenido " + nombre;
+        }
+        public string saludoNombreApellido(string nombre, string apellido)
+        {
+            return "Bienvenido " + nombre + " " + apellido;
+        }
+        public int numeroentero()
         {
             return 10;
         }
-
-        public double numeroDouble()
+        public double numerodecimal()
         {
-            return 5.0;
-        }
-
-        public string saludoNombre(string Nombre)
-        {
-            return "Bienvenido"+Nombre;
+            return 5.6;
         }
 
         public List<TipoMedicamentoCLS> listarTipoMedicamento()
         {
-            //El controller se comunica con la capa de negocio
             TipoMedicamentoBL obj = new TipoMedicamentoBL();
             return obj.listarMedicamentos();
         }
+
     }
 }
